@@ -11,8 +11,8 @@ import Hero from "./Hero";
 import Product from "./Product";
 import HelpCenter from "./HelpCenter";
 import FAQlink from "./FAQlink";
-import WhyUsSection from "./Whyus";
-import DiversitySection from "./Leadership";
+import WhyUsSection from "./whyus";
+import DiversitySection from "./leadership";
 import CareerPage from "./CareerPage";
 import PageNotFound from "./NotFound";
 export {
